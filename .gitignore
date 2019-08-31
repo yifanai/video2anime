@@ -1,0 +1,8 @@
+*.pyc
+.vscode/
+checkpoints/*
+!checkpoints/README.md
+*.mp4
+*.avi
+outputs/*
+!outputs/README.md
