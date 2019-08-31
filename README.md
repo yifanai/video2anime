@@ -14,9 +14,11 @@ This repository uses a [generative adversarial network](https://en.wikipedia.org
 ![cersei](examples/cersei.png)
 
 #### Videos
-![webcam](examples/webcam.gif)
+![webcam](examples/webcam.gif) ![webcam2](examples/webcam2.gif)
 
-_Note: training data was biased, containing only images of women, which might explain why I turned into a girl during close-up shots_ :laughing:
+Guy vs. Girl Video Results
+
+_Note: training data was biased, containing only images of women, which might explain why things could get weird for guys close-up_ :laughing:
 
 ## Try It Yourself
 1. Install the following requirements. I have tested with these exact versions, although earlier versions might also work.
