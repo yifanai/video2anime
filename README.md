@@ -15,6 +15,7 @@ This repository uses a [generative adversarial network](https://en.wikipedia.org
 
 #### Videos
 ![webcam](examples/webcam.gif)
+
 _Note: training data was biased, containing only images of women, which might explain why I turned into a girl during close-up shots_ :laughing:
 
 ## Try It Yourself
@@ -30,7 +31,7 @@ _Note: training data was biased, containing only images of women, which might ex
 
 Checkpoint | Description | Link | Size
 --- | --- | --- | ---
-UGATIT_100_epoch_generator_only | Based on author's 100-epoch checkpoint [2], but smaller, and contains generator only | [Google Drive](https://drive.google.com/drive/folders/1hrEAey_mUNwKpxrohF7gOXxWrFWygeIp?usp=sharing) | 1 GB
+UGATIT_100_epoch_generator_only | Minified, generator only checkpoint based on 100-epoch checkpoint from [2] | [Google Drive](https://drive.google.com/drive/folders/1hrEAey_mUNwKpxrohF7gOXxWrFWygeIp?usp=sharing) | 1 GB
 
 4. Run the following scripts. For best results, input images and videos should be square, and contain a big face in the center.
 
@@ -38,6 +39,7 @@ Script | Description | Run (with help for options)
 --- | --- | --- 
 record.py | Record your video to anime live with a webcam* | `python record.py --help`
 selfie.py | Turn your selfie into an anime character | `python selfie.py --help`
+
 *_Note: powerful computer with NVIDIA GPU may be required_
 
 
