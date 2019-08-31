@@ -5,7 +5,7 @@ Turn your videos (and selfies) into anime!
 This repository uses a [generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) to transform real-life videos and images into anime. It is based on the paper [[1]](#references) and the official implementation [[2]](#references), which contain a lot more stuff. I suppose most people are more interested in trying out the anime generation demo, so I made the following adaptations:
 - simplify code to have anime generator only
 - shrink original pretrained checkpoint from 8GB to 1GB
-- add UI code transform live webcam feed and individual photos more easily
+- add UI code to transform live webcam feed and individual photos more easily
 
 ## Example Results
 #### Photos / Selfies
