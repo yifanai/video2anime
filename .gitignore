@@ -6,3 +6,4 @@ checkpoints/*
 *.avi
 outputs/*
 !outputs/README.md
+.DS_Store
