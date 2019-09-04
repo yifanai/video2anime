@@ -49,6 +49,6 @@ selfie.py | Turn your selfie into an anime character | `python selfie.py --help`
 ## References
 This project is based on the paper [1] and official TensorFlow implementation by the authors [2].
 
-[1] Junho Kim, Minjae Kim, Hyeonwoo Kang, et al.U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation. 2019. arXiv:1907.10830 [cs.CV].
+[1] Junho Kim, Minjae Kim, Hyeonwoo Kang, et al. “U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation”. In: arXiv preprint arXiv:1907.10830 (2019).
 
 [2] [https://github.com/taki0112/UGATIT](https://github.com/taki0112/UGATIT)
